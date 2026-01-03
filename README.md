@@ -1,1 +1,1 @@
-A student management App with search and add item menu bar.
+A Complete Student Management App
